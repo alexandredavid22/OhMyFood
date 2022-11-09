@@ -1,0 +1,33 @@
+.titlepart {
+    border: solid 2px red;
+    display: flex;
+    justify-content: center;
+    margin-bottom: 5px;
+}
+
+.searchpart {
+    border: solid 2px red;
+    display: flex;
+    justify-content: center;
+    margin-bottom: 5px;
+}
+
+.textinfospart {
+    display: flex;
+    flex-direction: column;
+    border: solid 2px red;
+    margin-bottom: 5px;
+}
+
+.fonctionnementpart {
+    border: solid 2px red;
+    margin-bottom: 5px; 
+}
+
+.fonctionnement-one, .fonctionnement-two, .fonctionnement-three  {
+    border: 2px solid blue;
+    margin-top: 5px;
+    margin-bottom: 5px;
+    display: flex;
+    justify-content: center;
+}
