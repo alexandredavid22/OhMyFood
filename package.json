@@ -1,0 +1,21 @@
+{
+  "name": "ohmyfood",
+  "version": "1.0.0",
+  "description": "P3 OHMYFOOD",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "bonjour": "sass ./sass/main.scss:./css/style.css --style compressed",
+    "compile": "sass ./sass/main.scss:./css/style.css -s compressed"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alexandredavid22/OhMyFood.git"
+  },
+  "author": "DAVID Alexandre",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/alexandredavid22/OhMyFood/issues"
+  },
+  "homepage": "https://github.com/alexandredavid22/OhMyFood#readme"
+}
